@@ -37,4 +37,4 @@ into
 
 ## Running
 
-> tail -f test.txt | python3 loggy.py
+    tail -f test.txt | python3 loggy.py
